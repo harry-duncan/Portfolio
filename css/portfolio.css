@@ -1,7 +1,11 @@
 .bubble {
 	position: absolute;
-	border: 1px solid black;
+	border: 1px solid red;
 	width: 2em;
 	height: 2em;
 	border-radius: 100%;
+}
+
+h1 {
+	color: orange;
 }
